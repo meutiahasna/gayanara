@@ -40,7 +40,7 @@ LIMIT 10;
 |PRD081    |Celana Jogger Kanvas Lokal     |Kanvas Lokal |       48|                30|         6870000|
 |PRD189    |Ikat Pinggang Kulit SandangIndo|SandangIndo  |       88|                30|        11970000|
 
-_Pendapatan per Brand_
+_Pendapatan per Brand_ - https://datastudio.google.com/reporting/e9960068-8e87-4eb6-afc7-6be1b0b381cb
 
 ```sql
 SELECT
